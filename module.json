@@ -3,7 +3,7 @@
   "name": "accounting-bank-reconciliation-api",
   "display_name": "Accounting Bank Reconciliation API",
   "description": "HTTP adapter for bank reconciliation.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\BankReconciliationApi\\BankReconciliationApiServiceProvider",
   "requires": {
